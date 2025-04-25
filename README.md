@@ -1,4 +1,4 @@
-<h3 align="center">Computer Science and Electronic Engineering student</h3>
+<h3 align="left">:books: Computer Science and Electronic Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bt-nav&label=Profile%20views&color=0e75b6&style=flat" alt="bt-nav" /> </p>
 
