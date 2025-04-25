@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22678
-Fork on GitHub7514
 <h3 align="center">Computer Science and Electronic Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bt-nav&label=Profile%20views&color=0e75b6&style=flat" alt="bt-nav" /> </p>
@@ -15,4 +11,4 @@ Fork on GitHub7514
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bt-nav&show_icons=true&locale=en&layout=compact" alt="bt-nav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bt-nav&show_icons=true&locale=en" alt="bt-nav" /></p>
+<p>&nbsp;<img align="center" src="https://btnav-stats.vercel.app/api?username=bt-nav&show_icons=true&locale=en" alt="bt-nav" /></p>
