@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bt-nav&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="bt-nav" /> </p>
 
 <p align="center">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="display: flex; justify-content: center; align-items: center;">
         <img src="https://btnav-stats.vercel.app/api?username=bt-nav&show_icons=true&locale=en&hide_rank=true&theme=gruvbox" alt="bt-nav" style="height: 200px;" />
         <img src="https://btnav-stats.vercel.app/api/top-langs?username=bt-nav&show_icons=true&locale=en&layout=donut&theme=gruvbox" alt="bt-nav" style="height: 200px;" />
     </div>
