@@ -1,4 +1,6 @@
-<h3 align="left">:books: BEng Computer Science and Electronic Engineering</h3>
+<h3 align="left">:seedling: Robotics and AI for Net Zero</h3>
+<h3 align="left">:books: MSc Robotics Student</h3>
+<h3 align="left">:mortar_board: BEng Computer Science and Electronic Engineering Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bt-nav&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="bt-nav" /> </p>
 
