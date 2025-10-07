@@ -1,4 +1,4 @@
-<h3 align="left">:seedling: Robotics and AI for Net Zero</h3>
+<h3 align="left">:seedling: Robotics and AI for Net Zero | RAINZ CDT </h3>
 <h3 align="left">:test_tube: OChRA Framework | AI for Chemistry</h3>
 <h3 align="left">:mortar_board: MSc Robotics | BEng Computer Science and Electronic Engineering</h3>
 
